@@ -1,0 +1,13 @@
+@import "../Helpers/variables";
+@import "../Helpers/mixin";
+@import "../SASS/Parts/_login";
+@import "../SASS/Parts/_pesonalinfo";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: $mainColor;
+}
